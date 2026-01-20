@@ -33,3 +33,10 @@ cd lisvap-BD
 cd tests/
 python run_lisvap_BD.py 20250606
 ```
+## ⚙️ References & Credits
+
+- Original LISVAP/LISFLOOD: Developed by the Floods group of the Natural Hazards project, Joint Research Centre (JRC) of the European Commission.
+
+- Methodology: Van der Knijff, J. M., & De Roo, A. P. J. (2008). LISFLOOD: distributed water-balance and flood simulation model.
+
+- Customization: Developed by rokon.mist17@gmail.com for high-resolution forecast integration in Bangladesh river basins.
