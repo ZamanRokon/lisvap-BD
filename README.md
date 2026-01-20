@@ -17,15 +17,6 @@ This repository contains a **customized forecast version** of LISVAP developed t
 * **Forecast Horizon:** Generates up to **15-day forecasts** at **6-hourly** timesteps.
 * **Target Model:** Prepares forcing data specifically for LISFLOOD.
 
----
-
-## 🛠️ Prerequisites
-
-To run this model, you need:
-**Miniconda** or **Anaconda** installed on your system.
-
----
-
 ## ⚙️ Installation & Setup
 
 Follow these steps to set up the environment and download the model.
@@ -34,3 +25,9 @@ Follow these steps to set up the environment and download the model.
 ```bash
 git clone [https://github.com/ZamanRokon/lisvap-BD.git](https://github.com/ZamanRokon/lisvap-BD.git)
 cd lisvap-BD
+```
+### 🏃‍♂️ Usage
+```bash
+cd tests/
+python run_lisvap_BD.py 20250606
+```
