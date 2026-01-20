@@ -23,10 +23,11 @@ Follow these steps to set up the environment and download the model.
 
 ### 1. Clone the Repository
 ```bash
+git clone https://github.com/ZamanRokon/lisvap-BD.git
 cd lisvap-BD
 conda env create -f lisflood_env.yml
 conda activate lisflood
-git clone https://github.com/ZamanRokon/lisvap-BD.git
+pip install lisflood-lisvap
 ```
 ### 🏃‍♂️ Usage
 ```bash
