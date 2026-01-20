@@ -1,4 +1,4 @@
-# Customized LISVAP Forecast Pre-processor (ECMWF HRES)
+# Customized LISVAP Forecast Pre-processor with ECMWF HRES data
 
 **A spatially distributed hydrological pre-processor for LISFLOOD, customized for ECMWF HRES forecast data.**
 
@@ -22,8 +22,7 @@ This repository contains a **customized forecast version** of LISVAP developed t
 ## 🛠️ Prerequisites
 
 To run this model, you need:
-1.  **Miniconda** or **Anaconda** installed on your system.
-2.  Access to ECMWF HRES data (or the sample data provided in this repository for testing).
+**Miniconda** or **Anaconda** installed on your system.
 
 ---
 
